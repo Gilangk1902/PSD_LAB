@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>INI TEST</h1>
-            <h2>Merge Successfull</h2>
+            <h2>Merge Successfull - perubahan</h2>
         </div>
     </form>
 </body>
